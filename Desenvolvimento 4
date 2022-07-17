@@ -1,0 +1,39 @@
+var Nome, Endereco, Cidade, NomedoPai, NomeDaMae: caracter
+var CPF, RG, Idade: inteiro
+var Peso, RendaBruta: real
+
+escreva ("")
+
+escreva("Por favor, informe seu Nome: ")
+leia(Nome)
+
+escreva("Informe seu Endereço: ")
+leia(Endereco)
+
+escreva("Informe a Cidade: ")
+leia(Cidade)
+
+escreva("CPF: ")
+leia(CPF)
+
+escreva("RG: ")
+leia(RG)
+
+escreva("Idade: ")
+leia(Idade)
+
+escreva("Informe o nome do seu pai: ")
+leia(NomedoPai)
+
+escreva("Informe o nome da sua mãe: ")
+leia(NomedaMae)
+
+escreva("Qual o seu Peso?")
+leia(Peso)
+
+escreva("Renda Bruta: ")
+leia(RendaBruta)
+
+
+escreva("Cadastro realizado com sucesso!")
+escreva("")
